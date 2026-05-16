@@ -1,0 +1,20 @@
+Row Labels,Sum of Profit,Sum of Sales,,Row Labels,Sum of Sales,Sum of Profit,,Row Labels,Sum of Sales
+East,666.68K,3212.59K,,Electronics,4522.35K,874.53K,,Bookshelf,761.00K
+North,676.15K,3408.24K,,Furniture,3988.67K,797.99K,,Cabinet,569.72K
+South,654.05K,3342.85K,,Office Supplies,5114.00K,1036.23K,,Desk,771.09K
+West,711.87K,3661.34K,,Grand Total,13.63M,2.71M,,File Organizer,1084.81K
+Grand Total,2.71M,13.63M,,,,,,Headphones,460.20K
+,,,,,,,,Keyboard,485.71K
+Row Labels,Sum of Sales,,,Row Labels,Sum of Profit,Sum of Quantity,,Laptop,634.12K
+East,3212.59K,,,Consumer,687.38K,0.73K,,Mobile Phone,706.08K
+North,3408.24K,,,Corporate,1036.28K,0.79K,,Monitor,987.54K
+South,3342.85K,,,Home Office,985.08K,0.86K,,Notebook Pack,1228.97K
+West,3661.34K,,,Grand Total,2708.75K,2.38K,,Office Chair,658.13K
+Grand Total,13.63M,,,,,,,Pens Pack,1003.24K
+,,,,,,,,Printer,864.06K
+,,,,,,,,Smart Watch,634.75K
+,,,,,,,,Sofa,461.43K
+,,,,,,,,Stationery Set,932.92K
+,,,,,,,,Table,767.30K
+,,,,,,,,Tablet,613.94K
+,,,,,,,,Grand Total,13.63M
